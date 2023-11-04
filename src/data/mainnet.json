@@ -1,6 +1,7 @@
 {
   "ETH": {
     "chainId": 1,
+    "image": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
     "address": "0x0000000000000000000000000000000000000000",
     "decimals": 18,
     "symbol": "ETH",
@@ -8,6 +9,7 @@
   },
   "WETH": {
     "chainId": 1,
+    "image": "https://assets.coingecko.com/coins/images/2518/small/weth.png",
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
     "symbol": "WETH",
@@ -15,6 +17,7 @@
   },
   "DAI": {
     "chainId": 1,
+    "image": "https://assets.coingecko.com/coins/images/9956/small/Badge_Dai.png",
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
     "symbol": "DAI",
@@ -22,6 +25,7 @@
   },
   "USDC": {
     "chainId": 1,
+    "image": "https://assets.coingecko.com/coins/images/6319/small/usdc.png",
     "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
     "symbol": "USDC",
@@ -29,6 +33,7 @@
   },
   "USDT": {
     "chainId": 1,
+    "image": "https://assets.coingecko.com/coins/images/325/small/Tether.png",
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 6,
     "symbol": "USDT",
@@ -36,6 +41,7 @@
   },
   "WBTC": {
     "chainId": 1,
+    "image": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png",
     "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 8,
     "symbol": "WBTC",
